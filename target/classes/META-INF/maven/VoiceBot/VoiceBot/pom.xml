@@ -75,7 +75,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>LuckyPants</finalName>
+		<finalName>VoiceBot</finalName>
 		<plugins>
 			<!-- <plugin> <artifactId>maven-war-plugin</artifactId> <version>2.1.1</version> 
 				<configuration> <warSourceDirectory>src/main/java/com</warSourceDirectory> 
